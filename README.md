@@ -29,9 +29,7 @@ The relational structure ensures real-time updates and accurate reporting of ong
 ---
 
 ## Documentation
-For a detailed project overview, ER diagrams, and sample queries, see the PDF in the `docs/` folder:
-```bash
-docs/Project.pdf
+For a detailed project overview, ER diagrams, and sample queries, see the PDF in the `docs/` folder: [Project Documentation PDF](docs/Project.pdf)
 
 
 ## Setup Instructions
