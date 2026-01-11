@@ -41,6 +41,5 @@ For a detailed project overview, ER diagrams, and sample queries, see the PDF in
    Use phpMyAdmin, MySQL Workbench, or MySQL CLI.
 
 3. **Import the database using the provided SQL file:**
-   ```bash
-   Event Management Database/Data Book-event_management_database.sql;
+   [Database sql file](<u>Event Management Database/Data Book-event_management_database.sql/<u>)
 
