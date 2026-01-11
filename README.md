@@ -37,6 +37,6 @@ The relational structure ensures real-time updates and accurate reporting of ong
    Use phpMyAdmin, MySQL Workbench, or MySQL CLI.
 
 3. **Import the database using the provided SQL file:**
-   '''bash
+   ```bash
    event_management_database.sql;
 
