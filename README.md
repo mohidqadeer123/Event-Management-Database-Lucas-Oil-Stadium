@@ -28,6 +28,11 @@ The relational structure ensures real-time updates and accurate reporting of ong
 
 ---
 
+## Documentation
+For a detailed project overview, ER diagrams, and sample queries, see the PDF in the `docs/` folder:
+```bash
+
+
 ## Setup Instructions
 1. **Clone this repository:**
    ```bash
@@ -38,5 +43,5 @@ The relational structure ensures real-time updates and accurate reporting of ong
 
 3. **Import the database using the provided SQL file:**
    ```bash
-   event_management_database.sql;
+   Event Management Database/Data Book-event_management_database.sql;
 
