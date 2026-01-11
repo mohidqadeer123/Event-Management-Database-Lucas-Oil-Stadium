@@ -31,11 +31,13 @@ The relational structure ensures real-time updates and accurate reporting of ong
 ## Setup Instructions
 1. **Clone this repository:**
    ```bash
+   https://github.com/mohidqadeer123/Event-Management-Database-Lucas-Oil-Stadium
    
 2. **Open your MySQL environment:**
    Use phpMyAdmin, MySQL Workbench, or MySQL CLI.
 
 3. **Import the database using the provided SQL file:**
+   '''bash
    -- In MySQL CLI
    source path/to/event_management_database.sql;
 
