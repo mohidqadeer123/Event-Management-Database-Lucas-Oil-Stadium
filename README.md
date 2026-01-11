@@ -38,6 +38,5 @@ The relational structure ensures real-time updates and accurate reporting of ong
 
 3. **Import the database using the provided SQL file:**
    '''bash
-   -- In MySQL CLI
-   source path/to/event_management_database.sql;
+   event_management_database.sql;
 
