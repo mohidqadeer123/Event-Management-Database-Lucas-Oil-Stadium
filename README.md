@@ -29,7 +29,13 @@ The relational structure ensures real-time updates and accurate reporting of ong
 ---
 
 ## Setup Instructions
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/Lucas-Oil-Stadium-DB.git
+   
+2. **Open your MySQL environment:**
+   Use phpMyAdmin, MySQL Workbench, or MySQL CLI.
+
+3. **Import the database using the provided SQL file:**
+   -- In MySQL CLI
+   source path/to/event_management_database.sql;
 
